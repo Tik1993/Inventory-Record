@@ -1,0 +1,69 @@
+[
+  {
+    "id": 874512,
+    "name": "Snowboard X100",
+    "category": "Snowboard",
+    "brand": "Burton",
+    "year": 2023
+  },
+  {
+    "id": 235678,
+    "name": "All-Mountain Pro",
+    "category": "Snowboard",
+    "brand": "Lib Tech",
+    "year": 2022
+  },
+  {
+    "name": "Freestyle 2000",
+    "category": "Snowboard",
+    "brand": "GNU",
+    "year": 2021
+  },
+  {
+    "id": 934572,
+    "name": "Backcountry Beast",
+    "category": "Snowboard",
+    "brand": "Jones",
+    "year": 2023
+  },
+  {
+    "id": 109834,
+    "name": "Carver Elite",
+    "category": "Snowboard",
+    "brand": "Capita",
+    "year": 2020
+  },
+  {
+    "id": 556789,
+    "name": "Powder Master",
+    "category": "Snowboard",
+    "brand": "K2",
+    "year": 2024
+  },
+  {
+    "name": "Speed Demon",
+    "category": "Snowboard",
+    "brand": "Ride",
+    "year": 2023
+  },
+  {
+    "id": 332211,
+    "name": "Beginner’s Bliss",
+    "category": "Snowboard",
+    "brand": "Salomon",
+    "year": 2021
+  },
+  {
+    "name": "Park Prodigy",
+    "category": "Snowboard",
+    "brand": "Bataleon",
+    "year": 2022
+  },
+  {
+    "id": 998877,
+    "name": "Freeride Phantom",
+    "category": "Snowboard",
+    "brand": "Rossignol",
+    "year": 2024
+  }
+]
