@@ -10,6 +10,9 @@ class Database:
     
     def remove_item(self, item_id:int):
         self.items = [item for item in self.items if item.id != item_id]
+    
+    def filter_item(self, item_id:int):
+        pass
 
     def list_all(self):
         return self.items
